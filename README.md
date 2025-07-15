@@ -24,16 +24,16 @@ Email Me 👉 ✉️ **sanshey2711@gmail.com** For Collaboration/Project or Anyt
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
-    <p><strong>🎨 Front</strong></p>
+    <p><strong>🎨 Frontend</strong></p>
     <ul>
-      <li>Next.js, React, TypeScript, JavaScript</li>
-      <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
+      <li>Next.js, React.js, TypeScript, JavaScript</li>
+      <li>Tailwind, Sass, shadcn/ui, Bootstrap, GSAP, Three.js</li>
       <li>SEO, Accessibility, Copywriting</li>
     </ul>
-    <br /><p><strong>🛠 Back</strong></p>
+    <br /><p><strong>🛠 Backend</strong></p>
     <ul>
-      <li>Next.js, Node.js, Express</li>
-      <li>MongoDB, Supabase</li>
+      <li>Node.js, Express.js</li>
+      <li>MongoDB, Supabase, mySQL, PostgreSQL</li>
       <li>Firebase, Appwrite, Cloudinary</li>
     </ul>
     <br /><p><strong>📁 More</strong></p>
@@ -41,7 +41,7 @@ Email Me 👉 ✉️ **sanshey2711@gmail.com** For Collaboration/Project or Anyt
       <li>Wordpress/Divi, React Native/Expo</li>
       <li>Figma, Photoshop, Midjourney, Dall-E</li>
       <li>Vercel, Hostinger, Netlify</li>
-      <li>Git, OpenAI API, AI Tools</li>
+      <li>Git/Github, AI Tools, C/C++</li>
     </ul>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
