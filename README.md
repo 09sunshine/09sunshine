@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **sanshey2711@gmail.com** For Collaboration/Project or Anyt
     <br /><p><strong>📁 More</strong></p>
     <ul>
       <li>Wordpress/Divi, React Native/Expo</li>
-      <li>Figma, Photoshop, Midjourney, Dall-E</li>
+      <li>Figma, Illustrator, Midjourney, Dall-E</li>
       <li>Vercel, Hostinger, Netlify</li>
       <li>Git/Github, AI Tools, C/C++</li>
     </ul>
