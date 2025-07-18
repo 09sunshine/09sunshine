@@ -3,7 +3,7 @@
 </div>
 
 # 💫 Hi there👋, I'm Sanshey
-**A passionate Full Stack Web Developer || UI/UX Designer**
+**A passionate Full Stack Developer || UI/UX Designer**
 
 Email Me 👉 ✉️ **sanshey2711@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
